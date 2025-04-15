@@ -14,4 +14,4 @@ data:
 3. Project Analysis:
 ● Passed the project information to AI to identify typical buyer persona for each project (via
 Python script; input and output should be a csv file)
-4. Made a analysis report Using Power BI
+4. Made an analysis report Using Power BI
